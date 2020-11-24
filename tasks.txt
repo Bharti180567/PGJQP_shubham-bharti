@@ -1,0 +1,9 @@
+Ans(8)  Acess specifire are keyword in object oriented programming that set the accessibility of class,method,and other members.
+Acess specifires part of programming language and syntax used to facilitate the encapsulation of components.
+========================================================================================================================================
+Ans(7) Static keyward is mainly used for memory management,it can be used with veriables methods block and nested class 
+         it is a keyward which is used to share the same veriables or method of a given class.
+======================================================================================================================================
+Ans(6) When the class name and method name are is known as constructor.Method is used to execute certain statement.
+     A constructer is invoked implicity by the system, invoked during programming code.
+        A constructer have same name as that the class ,method not be same class .
